@@ -1,0 +1,17 @@
+# AWS Serverless API Project (Lab Walkthrough)
+...
+## 🖼️ Screenshots (Step-by-Step Walkthrough)
+
+![boto 3](./screenshots/boto 3.png)  
+![Browser Contents](./screenshots/Browser Contents.png)  
+![Build and Deploy](./screenshots/Build and Deploy.png)  
+![Build the Deployment pakage](./screenshots/Build the Deployment pakage.png)  
+![Cloud 9 Terminal](./screenshots/Cloud 9 Terminal.png)  
+![Deploy the Application Cloud 9](./screenshots/Deploy the Application Cloud 9.png)  
+![Endpoint results verified](./screenshots/Endpoint results verified.png)  
+![Lambda S3 Welcome](./screenshots/Lambda S3 Welcome .png)  
+![s3bucket access](./screenshots/s3bucket access.png)  
+![downloading contents in S3 bucket](./screenshots/downloading contents in S3 bucket.png)  
+![successfully Created a stack](./screenshots/successfully Created a stack.png)  
+![template.yaml](./screenshots/template.yaml.png)  
+![Verified S3 object contents](./screenshots/Verified S3 object contents.png)
